@@ -3,4 +3,4 @@
 
 <p>In this project, you’ll use JavaScript to randomly create a three-course meal based on what is available on a menu. We’ll keep running it until we’re satisfied with the generated meal!</p>
 
-<p>Taken from [Codeacademy's](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/projects/meal-maker) tutorial on JavaScript Iterators, Objects and Classes.</p>
+Taken from [Codeacademy's](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/projects/meal-maker) tutorial on JavaScript, Iterators and Objects.
